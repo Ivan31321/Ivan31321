@@ -1,0 +1,11 @@
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe.config
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.AssemblyReference.cache
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.Form1.resources
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.Properties.Resources.resources
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.exe
+C:\Users\ivan\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.pdb
